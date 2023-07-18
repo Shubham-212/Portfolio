@@ -205,7 +205,7 @@ body> :hover .section_title h2 {
 }
 
 .change .bar3 {
-     transform: translate(0, -5px) rotate(45deg);
+     transform: translate(0, 10px) rotate(-45deg);
 }
 
 .navbar-toggler:focus {
